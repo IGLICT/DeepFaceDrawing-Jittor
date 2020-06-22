@@ -39,8 +39,8 @@ Recent deep image-to-image translation techniques allow fast generation of face 
 
 ## How to use
 
-Drawing sketch using DeepFaceDrawing GUI. Please download the pre-train model<a href="https://pan.baidu.com/s/146MufLZMJMqgOWeO7chPvA 
-" target="_blank">[Baidu(Password:hagj)]</a> and put those under 'Param'.
+Drawing sketch using DeepFaceDrawing GUI. Please download the pre-train model<a href="https://pan.baidu.com/s/1f1S9t4T5X5J0CDZ7AqTfMg 
+" target="_blank">[Baidu(Password:wiu9)]</a> and put those under 'Param'.
 
   ```
   python3.7 demo.py
