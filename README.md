@@ -1,6 +1,6 @@
 # DeepFaceDrawing: Deep Generation of Face Images from Sketches
 
-One vision of our system is implemented using the <a href="https://github.com/Jittor/Jittor" target="_blank">Jittor</a>, and you need to install Jittor first. We will also provide a vision in pytorch.
+One version of our system is implemented using the <a href="https://github.com/Jittor/Jittor" target="_blank">Jittor</a>, and you need to install Jittor first. We will also provide a version in pytorch.
 
 HomePage: <a href="http://www.geometrylearning.com/DeepFaceDrawing/" target="_blank">http://www.geometrylearning.com/DeepFaceDrawing/</a>
 
