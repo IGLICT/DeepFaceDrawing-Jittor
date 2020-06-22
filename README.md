@@ -50,7 +50,7 @@ Drawing sketch using DeepFaceDrawing GUI.
 If you found this code useful please cite our work as:
 
     @article{chenDeepFaceDrawing2020,
-        author = {Shu-Yu, Chen and Wanchao, Su and Gao, Lin and Shihong, Xia and Hongbo, Fu},
+        author = {Chen, Shu-Yu and Su, Wanchao and Lin, Gao and Xia, Shihong and Fu, Hongbo},
         title = {{DeepFaceDrawing}: Deep Generation of Face Images from Sketches},
         journal = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH  2020)},
         year = {2020},
