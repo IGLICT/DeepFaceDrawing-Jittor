@@ -1,4 +1,4 @@
-# DeepFaceDrawing: Deep Generation of Face Images from Sketches
+# DeepFaceDrawing: Deep Generation of Face Images from Sketches (Jittor)
 
 This system is implemented using the <a href="https://github.com/Jittor/Jittor" target="_blank">Jittor</a>, and you need to install Jittor first. 
 
