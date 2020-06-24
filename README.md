@@ -34,12 +34,12 @@ Recent deep image-to-image translation techniques allow fast generation of face 
 　- Packages
 
   ```
-  sh install sh
+  sh install.sh
   ```
 
 ## How to use
 
-Drawing sketch using DeepFaceDrawing GUI. Please download the pre-train model<a href="https://pan.baidu.com/s/1f1S9t4T5X5J0CDZ7AqTfMg 
+Drawing sketch using DeepFaceDrawing GUI. Please download the pre-trained model<a href="https://pan.baidu.com/s/1f1S9t4T5X5J0CDZ7AqTfMg 
 " target="_blank">[Baidu(Password:wiu9)]</a> and put those under 'Param'.
 
   ```
